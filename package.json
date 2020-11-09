@@ -1,0 +1,26 @@
+{
+  "name": "carrefour-banco-app",
+  "version": "1.0.0",
+  "description": "Chatbot carrefour",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XxTomatexX/carrefour-banco-chatbot.git"
+  },
+  "keywords": [
+    "cb-chatbot1.0"
+  ],
+  "author": "Thomas Facchina Mendoza Harrell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XxTomatexX/carrefour-banco-chatbot/issues"
+  },
+  "homepage": "https://github.com/XxTomatexX/carrefour-banco-chatbot#readme",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
